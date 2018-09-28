@@ -1,4 +1,4 @@
-# Three-fuull Webpack Test
+# Three-full Webpack Test
 
 Testing bundle size generated for a simple ThreeJS Webpack build using three-full.
 
